@@ -11,6 +11,15 @@
     },
     {
       "path": "./apps/web"
+    },
+    {
+      "path": "./libs/types"
+    },
+    {
+      "path": "./libs/api"
+    },
+    {
+      "path": "./libs/utils"
     }
   ]
 }
